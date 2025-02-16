@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+uv
+requests
+scikit-learn
+pillow
+faker
+beautifulsoup4
+markdown
+python-dateutil
+pandas
+db-sqlite3
+scipy
+pybase64
+python-dotenv
+httpx
+duckdb
